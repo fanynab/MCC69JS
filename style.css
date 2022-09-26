@@ -1,0 +1,50 @@
+#container-body {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  border-radius: 15px;
+  border-color: burlywood;
+  margin: 20px 10px 10px 10px;
+}
+
+.card-img-top {
+  background-color: beige;
+  border-radius: 15px;
+}
+
+.modal-header {
+  background-color: beige;
+  margin: -1px -0.1px 0 -0.2px;
+  padding-bottom: 90px;
+}
+
+.details-element img {
+  margin-top: -120px;
+}
+
+.detail-types {
+  margin-bottom: 30px;
+}
+
+.detail-types p {
+  display: inline;
+  margin-right: 5px;
+}
+
+#statsTab div.progress {
+  margin: 10px;
+}
+
+#statsTab div.progress span {
+  padding-left: 7px;
+}
+
+#abilityTab p {
+  display: inline;
+}
+
+#moveTab p {
+  display: inline;
+}
